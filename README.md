@@ -1,7 +1,6 @@
-![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
 
 <br>
-<h1 align="center">Hi 👋, I'm Hardik</h1>
+<h1 align="center">Hi 👋</h1>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> <b>About Me:</b>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/programmer.gif" width="400" height="256" />
