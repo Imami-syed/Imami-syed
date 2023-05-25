@@ -5,3 +5,4 @@
 ###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><b>About Me:</b>
 
 - 🏦 I'm a undergraduate student researcher @ CCNSB,IIITH
+- 📬 How to reach me: syed.i@research.iiit.ac.in
