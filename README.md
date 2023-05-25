@@ -2,11 +2,11 @@
 <br>
 <h1 align="center">Hi 👋</h1>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> <b>About Me:</b>
+###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><b>About Me:</b>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/programmer.gif" width="400" height="256" />
 
-- 🏦 I'm a undergraduate student researcher @ CVIT,IIITH
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 I'm a undergraduate student researcher @ CCNSB,IIITH
+     
 - 📝 I am currently working on projects related to CV and NLP ( a bit of cyber security )
 - 💻 I use daily: **.py**, **.c**, **.cpp**,  **.js**
 - 💬 Talk to me about machine learning, python, silicon valley & startups or AI singularity
